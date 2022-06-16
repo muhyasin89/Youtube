@@ -1,0 +1,15 @@
+[submodule "django"]
+	path = django
+	url = https://github.com/muhyasin89/YoutubeDjango.git
+[submodule "YoutubeDjango"]
+	path = YoutubeDjango
+	url = https://github.com/muhyasin89/YoutubeDjango.git
+[submodule "TailwindCss"]
+	path = TailwindCss
+	url = https://github.com/muhyasin89/YoutubeTailwind.git
+[submodule "YoutubeTailwind"]
+	path = YoutubeTailwind
+	url = https://github.com/muhyasin89/YoutubeTailwind.git
+[submodule "YoutubeEmberJs"]
+	path = YoutubeEmberJs
+	url = https://github.com/muhyasin89/YoutubeEmberJs.git
