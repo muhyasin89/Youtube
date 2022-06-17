@@ -13,3 +13,6 @@
 [submodule "YoutubeEmberJs"]
 	path = YoutubeEmberJs
 	url = https://github.com/muhyasin89/YoutubeEmberJs.git
+[submodule "YoutubeVue"]
+	path = YoutubeVue
+	url = https://github.com/muhyasin89/YoutubeVue.git
