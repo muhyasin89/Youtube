@@ -22,3 +22,6 @@
 [submodule "YoutubeFlutterProject"]
 	path = YoutubeFlutterProject
 	url = https://github.com/muhyasin89/YoutubeFlutterProject.git
+[submodule "YoutubeJson"]
+	path = YoutubeJson
+	url = https://github.com/muhyasin89/YoutubeJson.git
