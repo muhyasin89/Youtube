@@ -19,3 +19,6 @@
 [submodule "YoutubeFlutterUI"]
 	path = YoutubeFlutterUI
 	url = https://github.com/muhyasin89/YoutubeFlutterUI.git
+[submodule "YoutubeFlutterProject"]
+	path = YoutubeFlutterProject
+	url = https://github.com/muhyasin89/YoutubeFlutterProject.git
