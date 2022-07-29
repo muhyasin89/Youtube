@@ -25,3 +25,6 @@
 [submodule "YoutubeJson"]
 	path = YoutubeJson
 	url = https://github.com/muhyasin89/YoutubeJson.git
+[submodule "YoutubeLaravel"]
+	path = YoutubeLaravel
+	url = git@github.com:muhyasin89/YoutubeLaravel.git
