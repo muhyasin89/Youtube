@@ -32,3 +32,6 @@
 [submodule "YoutubeNest"]
 	path = YoutubeNest
 	url = git@github.com:muhyasin89/YoutubeNest.git
+[submodule "YoutubeNetCoreAPI"]
+	path = YoutubeNetCoreAPI
+	url = git@github.com:muhyasin89/YoutubeNetCoreAPI.git
