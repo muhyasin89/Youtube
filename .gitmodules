@@ -26,3 +26,9 @@
 [submodule "YoutubeRails"]
 	path = YoutubeRails
 	url = git@github.com:muhyasin89/YoutubeRails.git
+[submodule "YoutubeGo"]
+	path = YoutubeGo
+	url = git@github.com:muhyasin89/YoutubeGo.git
+[submodule "YoutubeNest"]
+	path = YoutubeNest
+	url = git@github.com:muhyasin89/YoutubeNest.git
