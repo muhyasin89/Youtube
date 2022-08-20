@@ -4,9 +4,7 @@
 [submodule "YoutubeDjango"]
 	path = YoutubeDjango
 	url = https://github.com/muhyasin89/YoutubeDjango.git
-[submodule "TailwindCss"]
-	path = TailwindCss
-	url = https://github.com/muhyasin89/YoutubeTailwind.git
+
 [submodule "YoutubeTailwind"]
 	path = YoutubeTailwind
 	url = https://github.com/muhyasin89/YoutubeTailwind.git
@@ -29,9 +27,12 @@
 [submodule "YoutubeGo"]
 	path = YoutubeGo
 	url = git@github.com:muhyasin89/YoutubeGo.git
-[submodule "YoutubeNest"]
-	path = YoutubeNest
-	url = git@github.com:muhyasin89/YoutubeNest.git
 [submodule "YoutubeNetCoreAPI"]
 	path = YoutubeNetCoreAPI
 	url = git@github.com:muhyasin89/YoutubeNetCoreAPI.git
+[submodule "YoutubeXamarin"]
+	path = YoutubeXamarin
+	url = git@github.com:muhyasin89/YoutubeXamarin.git
+[submodule "YoutubeReactTS"]
+	path = YoutubeReactTS
+	url = git@github.com:muhyasin89/YoutubeReactTS.git
