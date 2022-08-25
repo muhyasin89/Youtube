@@ -36,6 +36,7 @@
 [submodule "YoutubeFastAPI"]
 	path = YoutubeFastAPI
 	url = git@github.com:muhyasin89/YoutubeFastAPI.git
-[submodule "YoutubeMAUI"]
-	path = YoutubeMAUI
+
+[submodule "YoutubeMaUIApp"]
+	path = YoutubeMaUIApp
 	url = git@github.com:muhyasin89/YoutubeMaUIApp.git
