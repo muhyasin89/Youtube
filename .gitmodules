@@ -30,9 +30,9 @@
 [submodule "YoutubeNetCoreAPI"]
 	path = YoutubeNetCoreAPI
 	url = git@github.com:muhyasin89/YoutubeNetCoreAPI.git
-[submodule "YoutubeXamarin"]
-	path = YoutubeXamarin
-	url = git@github.com:muhyasin89/YoutubeXamarin.git
 [submodule "YoutubeReactTS"]
 	path = YoutubeReactTS
 	url = git@github.com:muhyasin89/YoutubeReactTS.git
+[submodule "YoutubeFastAPI"]
+	path = YoutubeFastAPI
+	url = git@github.com:muhyasin89/YoutubeFastAPI.git
