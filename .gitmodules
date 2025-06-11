@@ -4,10 +4,6 @@
 [submodule "YoutubeDjango"]
 	path = YoutubeDjango
 	url = https://github.com/muhyasin89/YoutubeDjango.git
-
-[submodule "YoutubeTailwind"]
-	path = YoutubeTailwind
-	url = https://github.com/muhyasin89/YoutubeTailwind.git
 [submodule "YoutubeVue"]
 	path = YoutubeVue
 	url = https://github.com/muhyasin89/YoutubeVue.git
@@ -17,26 +13,10 @@
 [submodule "YoutubeFlutterProject"]
 	path = YoutubeFlutterProject
 	url = https://github.com/muhyasin89/YoutubeFlutterProject.git
-
-[submodule "YoutubeLaravel"]
-	path = YoutubeLaravel
-	url = git@github.com:muhyasin89/YoutubeLaravel.git
-[submodule "YoutubeRails"]
-	path = YoutubeRails
-	url = git@github.com:muhyasin89/YoutubeRails.git
 [submodule "YoutubeGo"]
 	path = YoutubeGo
 	url = git@github.com:muhyasin89/YoutubeGo.git
-[submodule "YoutubeNetCoreAPI"]
-	path = YoutubeNetCoreAPI
-	url = git@github.com:muhyasin89/YoutubeNetCoreAPI.git
 [submodule "YoutubeReactTS"]
 	path = YoutubeReactTS
 	url = git@github.com:muhyasin89/YoutubeReactTS.git
-[submodule "YoutubeFastAPI"]
-	path = YoutubeFastAPI
-	url = git@github.com:muhyasin89/YoutubeFastAPI.git
 
-[submodule "YoutubeMaUIApp"]
-	path = YoutubeMaUIApp
-	url = git@github.com:muhyasin89/YoutubeMaUIApp.git
