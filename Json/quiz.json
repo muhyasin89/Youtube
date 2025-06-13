@@ -241,6 +241,46 @@
         ],
         "jawaban":"developing software in which you’re able to release updates at any time in a sustainable way",
         "point": 10
+    },
+    {
+        "category": "DevOps",
+        "sub-category": "AWS",
+        "pertanyaan": "Why we need monitoring",
+        "pilihan": [
+            
+        ],
+        "jawaban":"",
+        "point": 10
+    },
+    {
+        "category": "DevOps",
+        "sub-category": "AWS",
+        "pertanyaan": "How did you enable App Dynamic in your environtment",
+        "pilihan": [
+            
+        ],
+        "jawaban":"",
+        "point": 10
+    },
+    {
+        "category": "DevOps",
+        "sub-category": "AWS",
+        "pertanyaan": "Any Log Monitoring Experience",
+        "pilihan": [
+            
+        ],
+        "jawaban":"",
+        "point": 10
+    },
+    {
+        "category": "DevOps",
+        "sub-category": "AWS",
+        "pertanyaan": "How to Install in 1500 Server",
+        "pilihan": [
+            "using Ansible"
+        ],
+        "jawaban":"",
+        "point": 10
     }
 
 ]

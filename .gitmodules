@@ -1,6 +1,4 @@
-[submodule "django"]
-	path = django
-	url = https://github.com/muhyasin89/YoutubeDjango.git
+
 [submodule "YoutubeDjango"]
 	path = YoutubeDjango
 	url = https://github.com/muhyasin89/YoutubeDjango.git
